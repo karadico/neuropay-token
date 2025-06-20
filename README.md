@@ -2,6 +2,10 @@
 
 ERC-20 smart contract implementation of the NRY token for the NeuroPay protocol. Designed for fast, low-cost micropayments on Layer 2 (e.g., zkSync, Base).
 
+## 📡 Website
+
+Visit: [https://neuropay.tech](https://neuropay.tech)
+
 ## Features
 - Fully ERC-20 compliant
 - Optimized for gas efficiency
